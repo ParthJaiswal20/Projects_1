@@ -1,0 +1,27 @@
+body {
+    /* background-color: whitesmoke; */
+    margin: 20px;
+}
+
+.profile_pic{
+    width: 150px;
+    margin:20px;
+}
+.card{
+    background-color: lightblue;
+    /* margin-left: auto;
+    margin-right: auto; */
+    /* REPLACING THE AVBOVE LINE INTO SHORTHAND */
+    margin: 0px auto 0px auto; 
+
+    width:400px;
+    padding:20px;
+    border: 4px black solid;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: purple;
+}
+.utility_check{
+    font-style: italic;
+}
