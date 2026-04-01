@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-image: url("STATION_PIC.jpg");
+    background-size: cover;
+    font-weight: bold;
+}
+
+h1 {
+    /* u can use the font size ot increase the font size like this  */
+    font-size: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: black;
+}
+
+h2 {
+    /* u can use the font size ot increase the font size like this  */
+    font-size: 70px;
+    color: red;
+}
+#increment_btn{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 20;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background: darkred;
+}
+#save_btn{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 20;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background: green;
+}
